@@ -6,6 +6,14 @@ contract RentSure {
     address public landlord;
     uint256 public agreementCount;
 
+    struct Agreement {
+        address tenant;
+        string propertyDetails;
+        uint256 depositAmount;
+        bool depositPaid;
+        bool completed;
+    }
+
     constructor() {
         landlord = msg.sender;
         agreementCount = 0;
