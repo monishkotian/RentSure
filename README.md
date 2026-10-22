@@ -37,13 +37,13 @@ RentSure DApp
 Network: localhost
 Chain ID: 1337
 
-![Frontend](./screenshots/Frontend.png)
-![Agreement Details](./screenshots/Agreements%20details.png)
-![Agreement Details 1](./screenshots/Agreements%20details1.png)
-![Input to Create Rental](./screenshots/Creatign%20agreement%20details.png)
-![Confirmation](./screenshots/Creatign%20agreement%20details.png)
-![After confirmation added Assignment Details](./screenshots/Completed%20Transaction.png)
-![Search of Specific Assignment](./screenshots/View%20Rental%20Agreement.png)
-![Remix Confirmation](./screenshots/Remix%20transaction%20confirmation.png)
-![Transaction successful](./screenshots/Connecting%20to%20metamask.png)
-![Transaction Error](./screenshots/Remix%20error.png)
+![Frontend](<./screenshots/Frontend.png>)
+![Agreement Details](<./screenshots/Agreements%20details.png>)
+![Agreement Details 1](<./screenshots/Agreements%20details1.png>)
+![Input to Create Rental](<./screenshots/Creatign%20agreement%20details.png>)
+![Confirmation](<./screenshots/Creatign%20agreement%20details.png>)
+![After confirmation added Assignment Details](<./screenshots/Completed%20Transaction.png>)
+![Search of Specific Assignment](<./screenshots/View%20Rental%20Agreement.png>)
+![Remix Confirmation](<./screenshots/Remix%20transaction%20confirmation.png>)
+![Transaction successful](<./screenshots/Connecting%20to%20metamask.png>)
+![Transaction Error](<./screenshots/Remix%20error.png>)
